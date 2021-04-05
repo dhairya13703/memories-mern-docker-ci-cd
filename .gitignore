@@ -1,16 +1,1 @@
 node_modules
-bin
-_diag
-externals
-.credentials
-.credentials_rsaparams
-.env
-.path
-.runner
-.service
-actions-runner-linux-x64-2.277.1.tar.gz
-config.sh
-env.sh
-run.sh
-runsvc.sh
-svc.sh
