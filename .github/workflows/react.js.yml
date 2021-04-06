@@ -30,7 +30,7 @@ jobs:
       uses: mr-smithers-excellent/docker-build-push@v5
       with:
         image: dhairya13703/memories-mern-docker-ci-cd
-        tags: v1, latest
+        tags: reactv1, react-latest
         registry: docker.io
         dockerfile: Dockerfile
         username: ${{ secrets.DOCKER_USERNAME }}
